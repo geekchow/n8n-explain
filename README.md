@@ -19,5 +19,10 @@ The Chinese version is also being serialized on CSDN in the column [「n8n 工�
 | 02 | n8n 为何存在：从胶水代码到工作流引擎 | https://blog.csdn.net/PhilZhou/article/details/167258525 |
 | 03 | n8n 概念地图：8 个核心概念与 11 个关键角色 | https://blog.csdn.net/PhilZhou/article/details/167258817 |
 | 04 | 贯穿示例：Ada 的订单接入工作流 | https://blog.csdn.net/PhilZhou/article/details/167258824 |
+| 05.01 | 编辑器 Editor | https://blog.csdn.net/PhilZhou/article/details/167496296 |
+| 05.02 | 触发器注册中心 Trigger Registry | https://blog.csdn.net/PhilZhou/article/details/167496306 |
+| 05.03 | Webhook 接入层 Webhook Ingress | https://blog.csdn.net/PhilZhou/article/details/167496325 |
+| 05.04 | 工作流运行器 Workflow Runner | https://blog.csdn.net/PhilZhou/article/details/167496347 |
+| 05.05 | 伸缩队列 Scaling Queue（队列模式） | https://blog.csdn.net/PhilZhou/article/details/167496356 |
 
-More parts (the 11 component deep dives + walkthrough) will be added to the column over time.
+`05.NN` are sub-parts of chapter 05 (component deep dives, mapping to `n8n-guide-zh/05-deep-dives/`), matching the source guide's own numbering. More parts (05.06–05.11 + the walkthrough) will be added to the column over time.
