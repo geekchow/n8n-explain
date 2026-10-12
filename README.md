@@ -24,5 +24,11 @@ The Chinese version is also being serialized on CSDN in the column [「n8n 工�
 | 05.03 | Webhook 接入层 Webhook Ingress | https://blog.csdn.net/PhilZhou/article/details/167496325 |
 | 05.04 | 工作流运行器 Workflow Runner | https://blog.csdn.net/PhilZhou/article/details/167496347 |
 | 05.05 | 伸缩队列 Scaling Queue（队列模式） | https://blog.csdn.net/PhilZhou/article/details/167496356 |
+| 05.06 | 执行引擎 Execution Engine（WorkflowExecute） | https://blog.csdn.net/PhilZhou/article/details/167678794 |
+| 05.07 | 节点 Nodes：类型、执行上下文与加载机制 | https://blog.csdn.net/PhilZhou/article/details/167678963 |
+| 05.08 | 表达式引擎 Expression Engine | https://blog.csdn.net/PhilZhou/article/details/167679102 |
+| 05.09 | 凭据 Credentials | https://blog.csdn.net/PhilZhou/article/details/167679205 |
+| 05.10 | 任务运行器 Task Runner（Code 节点真正运行的地方） | https://blog.csdn.net/PhilZhou/article/details/167679332 |
+| 05.11 | 生命周期钩子、持久化与推送 | https://blog.csdn.net/PhilZhou/article/details/167679473 |
 
-`05.NN` are sub-parts of chapter 05 (component deep dives, mapping to `n8n-guide-zh/05-deep-dives/`), matching the source guide's own numbering. More parts (05.06–05.11 + the walkthrough) will be added to the column over time.
+`05.NN` are sub-parts of chapter 05 (component deep dives, mapping to `n8n-guide-zh/05-deep-dives/`), matching the source guide's own numbering. The remaining parts (06 walkthrough, 07 next steps) will be added to the column over time.
